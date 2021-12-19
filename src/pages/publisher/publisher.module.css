@@ -1,0 +1,42 @@
+.table 
+{
+    /* margin: 10px; */
+    border: 2px solid #0005;
+    width: 98%;
+    margin: auto;
+    border-radius: 6px;
+}
+
+.table th:first-child
+{
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+}
+
+
+.table th:last-child
+{
+    text-align: center;
+    padding: 5px 10px 5px 0px;
+}
+.table tr td:first-child{
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+}
+
+.table tr td:last-child{
+    text-align: center;
+    padding: 5px 10px 5px 0px;
+}
+
+.table tr:hover
+{
+    background-color: #0001;
+    
+}
+
+.table tr:first-child:hover
+{
+    background-color: unset;
+    
+}

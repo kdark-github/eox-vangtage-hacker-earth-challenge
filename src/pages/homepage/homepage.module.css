@@ -1,0 +1,14 @@
+.publisherButton
+{   
+
+    max-width: 200px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.homepagectn
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 70px;
+}
